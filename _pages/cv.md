@@ -22,7 +22,8 @@ Work experience
 * Teaching Assistant: At IISER Pune
   * Course: (DS4233/DS6233) Time Series Analysis, January - May 2022
 * Teaching Assistant: At NIT Sikkim
-  *  Course: Basics Electrical Science, 2017-2021
+  *  Course: Basics Electrical Science (2 semesters)
+  *  Course: Engineering Physics (2 Semesters)
 * B.Tech Laboratory Assistant: At NIT Sikkim, 2017-2021
   
 Skills
