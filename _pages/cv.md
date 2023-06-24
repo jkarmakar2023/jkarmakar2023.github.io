@@ -13,18 +13,16 @@ Education
 ======
 * B.S. in Physics (H), Calcutta University, 2014
 * M.S. in Physics, National Institute of Technology, Durgapur, 2016
-* Ph.D in Econophysics (focused based on financial time series), 2021
+* Ph.D in Econophysics (focused on financial time series, stock market modeling), 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* post-doc fellow at IISER Pune: Dec, 2021-Present
+ 
+* Teaching Assistant: At IISER Pune
+  * Course: (DS4233/DS6233) Time Series Analysis: January - May 2022
+* Teaching Assistant: At NIT Sikkim
+  *  Course: (DS4233/DS6233) Time Series Analysis: January - May 2022
   * Supervisor: Professor Hub
   
 Skills
