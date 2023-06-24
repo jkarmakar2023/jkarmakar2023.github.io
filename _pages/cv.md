@@ -17,13 +17,13 @@ Education
 
 Work experience
 ======
-* post-doc fellow at IISER Pune: Dec, 2021-Present
+* Post-doc fellow at IISER Pune: Dec, 2021-Present
  
 * Teaching Assistant: At IISER Pune
-  * Course: (DS4233/DS6233) Time Series Analysis: January - May 2022
+  * Course: (DS4233/DS6233) Time Series Analysis, January - May 2022
 * Teaching Assistant: At NIT Sikkim
-  *  Course: (DS4233/DS6233) Time Series Analysis: January - May 2022
-  * Supervisor: Professor Hub
+  *  Course: Basics Electrical Science, 2017-2021
+* B.Tech Laboratory Assistant: At NIT Sikkim, 2017-2021
   
 Skills
 ======
