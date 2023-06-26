@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Ajit. I will update this later. This will be the home page.
+Hi, I am Jayashree. I will update this later. This will be the home page.
