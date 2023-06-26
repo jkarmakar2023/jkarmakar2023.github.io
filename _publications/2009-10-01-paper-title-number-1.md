@@ -8,8 +8,4 @@ venue: 'Journal 1'
 paperurl: 'https://arxiv.org/abs/2306.10797'
 citation: 'Ajit Mahata, under preparation (https://arxiv.org/abs/2306.10797).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
 [Download paper here](https://arxiv.org/abs/2306.10797)
-
-Recommended citation: Ajit Mahata, under preparation (https://arxiv.org/abs/2306.10797).
