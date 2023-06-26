@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* Ekhane tui change karbi.....
 * B.S. in Physics (H), Calcutta University, 2014
 * M.S. in Physics, National Institute of Technology, Durgapur, 2016
 * Ph.D in Econophysics (focused on financial time series, stock market modeling), 2021
