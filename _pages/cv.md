@@ -11,22 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ekhane tui change karbi.....
-* B.S. in Physics (H), Calcutta University, 2014
-* M.S. in Physics, National Institute of Technology, Durgapur, 2016
-* Ph.D in Econophysics (focused on financial time series, stock market modeling), 2021
-* acvakcvacm 
+* B.Sc. in Physics (H), Burdwan University, 2014
+* M.Sc. in Physics, National Institute of Technology Durgapur, 2016
+* Ph.D. in Physics, 2021 
 
 Work experience
 ======
-* Post-doc fellow at IISER Pune: Dec, 2021-Present
+* Post-doctoral fellow at NIT Sikkim: Nov 2021 - June 2022
+* Research associate at IIT Gandhinagar: June 2022 - present
  
-* Teaching Assistant: At IISER Pune
-  * Course: (DS4233/DS6233) Time Series Analysis, January - May 2022
-* Teaching Assistant: At NIT Sikkim
-  *  Course: Basics Electrical Science (2 semesters)
-  *  Course: Engineering Physics (2 Semesters)
-* B.Tech Laboratory Assistant: At NIT Sikkim, 2017-2021
+* Teaching Assistant: At IIT Gandhinagar
+  * Course: BE614: Biostatistics - 2022-2023 Semester I (Aug 2022 - Dec 2022)
+* Teaching Assistant: At IIT Gandhinagar
+  * Course: BE304: Introduction to Biomedical Engineering - Semester II, 2022-2023 (Jan 2023 - May 2023)
+* B.Tech Laboratory Assistant: At NIT Sikkim
+  * Course: Engineering Physics (2 Semesters) , Jan 2022 - May 2022
   
 Skills
 ======
