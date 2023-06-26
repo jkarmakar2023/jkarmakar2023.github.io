@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ajit Mahata"
+title                    : "Jayashree Karmakar"
 title_separator          : "-"
-name                     : &name "Ajit Mahata"
-description              : &description "I am a postdoctoral fellow at IISER Pune"
+name                     : &name "Jayashree Karmakar"
+description              : &description "I am a Research Associate at IIT Gandhinagar"
 url                      : https://ajitnonlinear.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ajit Mahata"
-  avatar           : "Ajit.jpg"
+  name             : "Jayashree Karmakar"
+  avatar           : "Jayashree.jpg"
   bio              : "I am a postdoctoral fellow at IISER Pune"
   location         : "Pune"
-  employer         : IISER Pune
+  employer         : IIT Gandhinagar
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=OQ1g55YAAAAJ"
-  email            : "ajitnonlinear@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Ajit-Mahata"
+  googlescholar    : "https://scholar.google.com/citations?user=UvUQaIEAAAAJ&hl=en&oi=ao"
+  email            : "jkarmakar101@gmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Jayashree-Karmakar"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ajitnonlinear"
+  github           : "jkarmakar2023"
   google_plus      :
   keybase          :
   instagram        :
